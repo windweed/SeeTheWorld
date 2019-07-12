@@ -3,22 +3,20 @@
 `encoding: GB 2312`
 
 虽然每天只有一张.但  
->合抱之木,生于毫末
+>合抱之木,生于毫末  
 >九层之台,起于垒土
 
-* * *
-
-|Area              |Pictures    |Countries    |
-|:-----------------|:---------: |:-----------:|
-|Africa            |2           |1            |
-|Asia              |5           |5            |
-|Europe            |23          |9            |
-|North America     |21          |3            |
-|South America     |3           |2            |
-|Oceania           |3           |2            |
-|EARTH&Antarctica  |2           |-            |
-|Others            |0           |-            |
-|TOTAL             |59          |22           |
+|Area                 |Pictures          |Countries         |
+|:--------------------|:----------------:|:----------------:|
+|Africa               |2                 |1                 |
+|Asia                 |5                 |5                 |
+|Europe               |23                |9                 |
+|North America        |21                |3                 |
+|South America        |3                 |2                 |
+|Oceania              |3                 |2                 |
+|EARTH&Antarctica     |2                 |-                 |
+|Others               |0                 |-                 |
+|TOTAL                |59                |22                |
 
 ## Africa 非洲
 
