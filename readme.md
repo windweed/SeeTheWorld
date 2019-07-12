@@ -10,18 +10,17 @@
 
 目前状况:
 
-|Area              |Sum |
-|:-----------------|----|
-|Africa            |2   |
-|Asia              |5   |
-|Europe            |23  |
-|North America     |21  |
-|Oceania           |3   |
-|South America     |3   |
-|EARTH&Antarctica  |2   |
-|Others            |0   |
-
-详情 总计59
+|Area              |Sum   |Countries    |
+|:-----------------|:----:|:-----------:|
+|Africa            |2     |1            |
+|Asia              |5     |5            |
+|Europe            |23    |9            |
+|North America     |21    |3            |
+|South America     |3     |2            |
+|Oceania           |3     |2            |
+|EARTH&Antarctica  |2     |-            |
+|Others            |0     |-            |
+|Sum               |59    |22           |
 
 ## Africa 非洲
 
