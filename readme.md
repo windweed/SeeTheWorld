@@ -2,25 +2,23 @@
 
 `encoding: GB 2312`
 
-分享给大家.主要是真的很好看
+虽然每天只有一张.但  
+>合抱之木,生于毫末
+>九层之台,起于垒土
 
-之前错过了很多的好图片.那时候不会github,甚至都不会保存.  
-现在我决定都存下来.  
-虽然每天只有一张.但我会坚持更新的.
+* * *
 
-目前状况:
-
-|Area              |Sum   |Countries    |
-|:-----------------|:----:|:-----------:|
-|Africa            |2     |1            |
-|Asia              |5     |5            |
-|Europe            |23    |9            |
-|North America     |21    |3            |
-|South America     |3     |2            |
-|Oceania           |3     |2            |
-|EARTH&Antarctica  |2     |-            |
-|Others            |0     |-            |
-|Sum               |59    |22           |
+|Area              |Pictures    |Countries    |
+|:-----------------|:---------: |:-----------:|
+|Africa            |2           |1            |
+|Asia              |5           |5            |
+|Europe            |23          |9            |
+|North America     |21          |3            |
+|South America     |3           |2            |
+|Oceania           |3           |2            |
+|EARTH&Antarctica  |2           |-            |
+|Others            |0           |-            |
+|TOTAL             |59          |22           |
 
 ## Africa 非洲
 
