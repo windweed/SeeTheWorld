@@ -13,7 +13,7 @@
 |Europe               |23                |9                 |
 |North America        |21                |3                 |
 |South America        |3                 |2                 |
-|Oceania              |3                 |2                 |
+|Oceania              |4                 |2                 |
 |EARTH&Antarctica     |2                 |-                 |
 |Others               |0                 |-                 |
 |TOTAL                |59                |22                |
@@ -55,7 +55,7 @@
 
 ## Oceania 大洋洲
 
-澳大利亚 2  
+澳大利亚 3  
 新西兰 1
 
 ## EARTH&Antarctica 地球及南极洲
