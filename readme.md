@@ -1,67 +1,67 @@
 # Bing Pictures
 
-`encoding: GB 2312`
-
-��Ȼÿ��ֻ��һ��.��  
->�ϱ�֮ľ,���ں�ĩ  
->�Ų�̨֮,��������
+虽然每天只有一张,但是  
+>合抱之木,生于毫末  
+>九尺之台,起于累土
 
 |Area                 |Pictures          |Countries         |
 |:--------------------|:----------------:|:----------------:|
 |Africa               |2                 |1                 |
-|Asia                 |5                 |5                 |
-|Europe               |23                |9                 |
+|Asia                 |6                 |5                 |
+|Europe               |24                |9                 |
 |North America        |21                |3                 |
-|South America        |3                 |2                 |
+|South America        |4                 |2                 |
 |Oceania              |4                 |2                 |
 |EARTH&Antarctica     |2                 |-                 |
-|Others               |0                 |-                 |
-|TOTAL                |60                |22                |
+|Others               |1                 |-                 |
+|TOTAL                |64                |22                |
 
-## Africa ����
+合 22个国家
 
-Ħ��� 2
+## Africa 非洲
 
-## Asia ����
+摩洛哥 2
 
-���ɱ� 1  
-�Ჴ�� 1  
-�ձ� 1  
-ӡ�� 1  
-�й� 1
+## Asia 亚洲
 
-## Europe ŷ��
+菲律宾 1  
+尼泊尔 1  
+日本 2  
+印度 1  
+中国 1
 
-������ 1  
-���� 1  
-���� 4  
-���� 2  
-�������� 1  
-������ 1  
-��ʿ 1  
-������ 3  
-Ӣ�� 9
+## Europe 欧洲
 
-## North America ����
+爱尔兰 1  
+冰岛 1  
+法国 4  
+荷兰 2  
+罗马尼亚 1  
+葡萄牙 1  
+瑞士 1  
+西班牙 3  
+英国 10
 
-���ô� 4  
-ī���� 1  
-���� 16
+## North America 北美
 
-## South America ����
+加拿大 4  
+墨西哥 1  
+美国 16
 
-���� 2  
-��³ 1
+## South America 南美
 
-## Oceania ������
+巴西 3  
+秘鲁 1
 
-�Ĵ����� 3  
-������ 1
+## Oceania 大洋洲
 
-## EARTH&Antarctica �����ϼ���
+澳大利亚 3  
+新西兰 1
+
+## EARTH&Antarctica 地球与南极洲
 
 2
 
-## Other ����
+## Other 其他
 
-0
+1
