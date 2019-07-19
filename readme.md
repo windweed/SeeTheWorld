@@ -13,13 +13,13 @@
 |:--------------------|:----------------:|:----------------:|
 |Africa               |2                 |1                 |
 |Asia                 |6                 |5                 |
-|Europe               |25                |10                 |
-|North America        |21                |3                 |
+|Europe               |25                |10                |
+|North America        |22                |3                 |
 |South America        |4                 |2                 |
 |Oceania              |4                 |2                 |
 |EARTH&Antarctica     |2                 |-                 |
 |Others               |1                 |-                 |
-|TOTAL                |65                |23                |
+|TOTAL                |66                |23                |
 
 目前 合 23个国家, 65张图片(持续更新)
 * * *
@@ -53,7 +53,7 @@
 
 加拿大 4  
 墨西哥 1  
-美国 16
+美国 17
 
 ## South America 南美
 
