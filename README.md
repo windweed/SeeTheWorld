@@ -8,7 +8,7 @@
 |Africa非洲  |11  |6|
 |Americas美洲  |68  |10  |
 |Asia亚洲  |40  |14  |
-|Europe欧洲  |138  |27  |
-|Oceania大洋洲  |12  |2  |
+|Europe欧洲  |141  |27  |
+|Oceania大洋洲  |13  |2  |
 |Others其他  |23  |-  |
-|TOTAL总计  |292  |59  |
+|TOTAL总计  |296  |59  |
