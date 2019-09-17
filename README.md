@@ -5,7 +5,7 @@
 |Africa非洲  |11  |6|
 |Americas美洲  |70  |10  |
 |Asia亚洲  |40  |14  |
-|Europe欧洲  |142  |27  |
+|Europe欧洲  |143  |27  |
 |Oceania大洋洲  |14  |2  |
 |Others其他  |24  |-  |
-|TOTAL总计  |301  |59  |
+|TOTAL总计  |302  |59  |
