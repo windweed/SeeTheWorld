@@ -1,11 +1,11 @@
 # Bing Pictures
 
-|地区  |图片数目  |涉及国家/地区数目  |
+|地区 Region  |图片数目 Amount  |涉及国家/地区数目 Countries/Areas Involved |
 |:--|:--:|:--:|
-|Africa非洲  |13  |6|
-|Americas美洲  |81  |10  |
-|Asia亚洲  |41  |14  |
-|Europe欧洲  |153  |27  |
-|Oceania大洋洲  |16  |2  |
-|Others其他  |28  |-  |
-|TOTAL总计  |332  |59  |
+|Africa 非洲  |13  |6|
+|Americas 美洲  |83  |10  |
+|Asia 亚洲  |42  |14  |
+|Europe 欧洲  |156  |27  |
+|Oceania 大洋洲  |16  |2  |
+|Others 其他  |28  |-  |
+|TOTAL 总计  |338  |59  |
