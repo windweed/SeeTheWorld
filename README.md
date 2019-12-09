@@ -3,94 +3,95 @@
 |地区 Regions  |图片数目 Amounts  |国家/地区数目 Countries/Areas  |
 |:--|:--:|:--|
 |Africa 非洲  |14  |9|
-|Americas 美洲  |90  |10  |
+|Americas 美洲  |91  |10  |
 |Asia 亚洲  |44  |14  |
 |Europe 欧洲  |168  |30  |
-|Oceania 大洋洲  |17  |2  |
-|Others 其他  |30  |-  |
+|Oceania 大洋洲  |18  |2  |
+|Others 其他  |31  |-  |
 |non_bing  非bing  |3  |-  |
-|TOTAL 总计  |366  |65  |
+|TOTAL 总计  |369  |65  |
 
 * * *
 ## Africa
 
-* 博茨瓦纳 1
-* 肯尼亚 4 ; 坦桑尼亚 1
-* 马达加斯加 1
-* 摩洛哥 3
-* 南非 1
-* 塞舌尔 2
-* 苏丹 1
-* 赞比亚 1
+* 博茨瓦纳 Botswana 1
+* 肯尼亚 Kenya 4
+* 坦桑尼亚 Tanzania 1
+* 马达加斯加 Madagascar 1
+* 摩洛哥 Morocco 3
+* 南非 South Africa 1
+* 塞舌尔 Seychelles 2
+* 苏丹 Sultan 1
+* 赞比亚 Zambia 1
 
 ## Americas
 
-* 巴西 4
-* 厄瓜多尔 1
-* 哥伦比亚 1
-* 哥斯达黎加 1
-* 加拿大 18
-* 美国 57
-* 秘鲁 3
-* 墨西哥 3
-* 牙买加 1
-* 智利 1
+* 巴西 Brazil 4
+* 厄瓜多尔 Ecuador 1
+* 哥伦比亚 Colombia 1
+* 哥斯达黎加 Costa Rica 1
+* 加拿大 Canada 18
+* 美国 America 57
+* 秘鲁 Peru 3
+* 墨西哥 Mexico 3
+* 牙买加 Jamaica 1
+* 智利 Chile 1
 
 ## Asia
 
-* 新加坡 1
-* 不丹 1
-* 菲律宾 1
-* 韩国 2
-* 吉尔吉斯斯坦 1
-* 马来西亚 1
-* 蒙古 1
-* 尼泊尔 2
-* 日本 16
-* 沙特 1
-* 印度 2
-* 印度尼西亚 1
-* 越南 1
-* 中国 13
+* 新加坡 Singapore 1
+* 不丹 Bhutan 1
+* 菲律宾 Philippines 1
+* 韩国 Korea 2
+* 吉尔吉斯斯坦 Kyrgyzstan 1
+* 马来西亚 Malaysia 1
+* 蒙古 Mongolia 1
+* 尼泊尔 Nepal 2
+* 日本 Japan16
+* 沙特 Saudi Arabia 1
+* 印度 India 2
+* 印度尼西亚 Indonesia 1
+* 越南 Vietnam 1
+* 中国 China 13
 
 ## Europe
 
-* 爱尔兰 4
-* 爱沙尼亚 2
-* 奥地利 4
-* 保加利亚 1
-* 比利时 1
-* 冰岛 3
-* 波黑 1
-* 德国 18
-* 俄罗斯 1
-* 法国 19
-* 芬兰 6
-* 格陵兰 2
-* 荷兰 4
-* 捷克 5
-* 拉脱维亚 1
-* 罗马尼亚 2
-* 马耳他 1
-* 挪威 8
-* 葡萄牙 2
-* 瑞典 2
-* 瑞士 4
-* 斯洛文尼亚 1
-* 英国 31
-    - 苏格兰 8
-    - 威尔士 5
-    - 英格兰 17
-    - 马恩岛 1
-* 西班牙 23
-* 希腊 3
-* 匈牙利 1
-* 意大利 18
+* 爱尔兰 Ireland 4
+* 爱沙尼亚 Estonia 2
+* 奥地利 Austria 4
+* 保加利亚 Bulgaria 1
+* 比利时 Belgium 1
+* 冰岛 Iceland 3
+* 波黑 Bosnia and Herzegovina 1
+* 德国 Germany 18
+* 俄罗斯 Russia 1
+* 法国 France19
+* 芬兰 Finland 6
+* 格陵兰 Greenland 2
+* 荷兰 Netherlands 4
+* 捷克 Czech 5
+* 拉脱维亚 Latvia 1
+* 罗马尼亚 Romania 2
+* 马耳他 Malta 1
+* 挪威 Norway 8
+* 葡萄牙 Portugal 2
+* 瑞典 Sweden 2
+* 瑞士 Switzerland 4
+* 斯洛文尼亚 Slovenia 1
+* 英国 United Kingdom 31
+    - 苏格兰 Scotland 8
+    - 威尔士 Wales 5
+    - 英格兰 England 17
+    - 马恩岛 Isle of Man 1
+* 西班牙 Spain 23
+* 希腊 Greece 3
+* 匈牙利 Hungary1
+* 意大利 Italy 18
 
 ## Oceania
 
-* 澳大利亚 13
-* 新西兰 4
+* 澳大利亚 Australia 13
+* 新西兰 New Zealand 4
 
 
 
