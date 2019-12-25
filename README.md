@@ -4,12 +4,12 @@
 |:--|:--:|:--|
 |Africa 非洲  |15  |9|
 |Americas 美洲  |94  |10  |
-|Asia 亚洲  |45  |14  |
+|Asia 亚洲  |46  |14  |
 |Europe 欧洲  |175  |31  |
 |Oceania 大洋洲  |18  |2  |
 |Others 其他  |34  |-  |
 |non_bing  非bing  |4  |-  |
-|TOTAL 总计  |385  |65  |
+|TOTAL 总计  |386  |65  |
 
 * * *
 ## Africa
@@ -52,7 +52,7 @@
 * 印度 India 2
 * 印度尼西亚 Indonesia 1
 * 越南 Vietnam 1
-* 中国 China 13
+* 中国 China 14
 
 ## Europe
 
