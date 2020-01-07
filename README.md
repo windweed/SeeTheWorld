@@ -3,13 +3,13 @@
 |地区 Regions  |图片数目 Amounts  |国家/地区数目 Countries/Areas  |
 |:--|:--:|:--|
 |Africa 非洲  |15  |9|
-|Americas 美洲  |96  |10  |
-|Asia 亚洲  |46  |14  |
-|Europe 欧洲  |180  |31  |
+|Americas 美洲  |98  |11  |
+|Asia 亚洲  |47  |14  |
+|Europe 欧洲  |181  |32  |
 |Oceania 大洋洲  |18  |2  |
-|Others 其他  |35  |-  |
+|Others 其他  |37  |-  |
 |non_bing  非bing  |4  |-  |
-|TOTAL 总计  |394  |65  |
+|TOTAL 总计  |400  |67  |
 
 * * *
 ## Africa
@@ -26,12 +26,13 @@
 
 ## Americas
 
+* 阿根廷 Argentina 1
 * 巴西 Brazil 4
 * 厄瓜多尔 Ecuador 1
 * 哥伦比亚 Colombia 1
 * 哥斯达黎加 Costa Rica 1
 * 加拿大 Canada 18
-* 美国 America 62
+* 美国 America 63
 * 秘鲁 Peru 3
 * 墨西哥 Mexico 3
 * 牙买加 Jamaica 1
@@ -52,7 +53,7 @@
 * 印度 India 2
 * 印度尼西亚 Indonesia 1
 * 越南 Vietnam 1
-* 中国 China 14
+* 中国 China 15
 
 ## Europe
 
@@ -73,6 +74,7 @@
 * 捷克 Czech 5
 * 拉脱维亚 Latvia 1
 * 罗马尼亚 Romania 2
+* 立陶宛 Lithuania 1
 * 马耳他 Malta 1
 * 挪威 Norway 9
 * 葡萄牙 Portugal 2
