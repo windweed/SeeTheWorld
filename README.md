@@ -3,12 +3,12 @@
 |地区 Regions  |图片数目 Amounts  |国家/地区数目 Countries/Areas  |
 |:--|:--:|:--|
 |Africa 非洲  |16  |9|
-|Americas 美洲  |109  |12  |
-|Asia & Oceania 亚洲和大洋洲  |73  |17  |
-|Europe 欧洲  |192  |32  |
+|Americas 美洲  |113  |12  |
+|Asia & Oceania 亚洲和大洋洲  |75  |18  |
+|Europe 欧洲  |197  |32  |
 |Others 其他  |44  |-  |
-|non_bing  非bing  |4  |-  |
-|TOTAL 总计  |438  |69  |
+|non_bing  非bing  |5  |-  |
+|TOTAL 总计  |450  |70  |
 
 
 * * *
@@ -32,7 +32,7 @@
 * 哥伦比亚 Colombia 1
 * 哥斯达黎加 Costa Rica 1
 * 加拿大 Canada 22
-* 美国 America 68
+* 美国 America 72
 * 秘鲁 Peru 3
 * 墨西哥 Mexico 3
 * 牙买加 Jamaica 1
@@ -54,8 +54,9 @@
 * 印度 India 3
 * 印度尼西亚 Indonesia 1
 * 越南 Vietnam 1
-* 中国 China 18
+* 中国 China 19
 * 斯里兰卡 Sri Lanka 1
+* 土耳其 Turkey 1
 
 * 澳大利亚 Australia 14
 * 新西兰 New Zealand 4
@@ -70,7 +71,7 @@
 * 冰岛 Iceland 5
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
-* 德国 Germany 23
+* 德国 Germany 24
 * 俄罗斯 Russia 2
 * 法国 France 20
 * 芬兰 Finland 7
@@ -86,15 +87,15 @@
 * 瑞典 Sweden 2
 * 瑞士 Switzerland 6
 * 斯洛文尼亚 Slovenia 2
-* 英国 United Kingdom 32
+* 英国 United Kingdom 33
     - 苏格兰 Scotland 9
     - 威尔士 Wales 6
-    - 英格兰 England 18
+    - 英格兰 England 19
     - 马恩岛 Isle of Man 1
-* 西班牙 Spain 24
+* 西班牙 Spain 26
 * 希腊 Greece 3
 * 匈牙利 Hungary1
-* 意大利 Italy 20
+* 意大利 Italy 21
 
 
 
