@@ -5,10 +5,10 @@
 |Africa 非洲  |16  |9|
 |Americas 美洲  |127  |12  |
 |Asia & Oceania 亚洲和大洋洲  |78  |19  |
-|Europe 欧洲  |204  |33  |
+|Europe 欧洲  |205  |33  |
 |Others 其他  |44  |-  |
 |non_bing  非bing  |5  |-  |
-|TOTAL 总计  |474  |72  |
+|TOTAL 总计  |475  |73  |
 
 
 * * *
