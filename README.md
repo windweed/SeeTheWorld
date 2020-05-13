@@ -4,11 +4,11 @@
 |:--|:--:|:--|
 |Africa 非洲  |19  |9|
 |Americas 美洲  |142  |13  |
-|Asia & Oceania 亚洲和大洋洲  |85  |20  |
+|Asia & Oceania 亚洲和大洋洲  |84  |20  |
 |Europe 欧洲  |217 |34  |
 |Others 其他  |47  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |517  |76  |
+|TOTAL 总计  |516  |76  |
 
 
 * * *
@@ -51,7 +51,7 @@
 * 马来西亚 Malaysia 1
 * 蒙古 Mongolia 1
 * 尼泊尔 Nepal 4
-* 日本 Japan 21
+* 日本 Japan 20
 * 沙特 Saudi Arabia 1
 * 泰国 Thailand 1
 * 印度 India 5
