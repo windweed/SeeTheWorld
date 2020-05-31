@@ -2,13 +2,13 @@
 
 |地区 Regions  |图片数目 Amounts  |国家/地区数目 Countries/Areas  |
 |:--|:--:|:--|
-|Africa 非洲  |19  |9|
-|Americas 美洲  |142  |13  |
-|Asia & Oceania 亚洲和大洋洲  |84  |20  |
-|Europe 欧洲  |217 |34  |
-|Others 其他  |47  |-  |
+|Africa 非洲  |21  |9|
+|Americas 美洲  |149  |13  |
+|Asia & Oceania 亚洲和大洋洲  |87  |20  |
+|Europe 欧洲  |224 |34  |
+|Others 其他  |51  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |516  |76  |
+|TOTAL 总计  |538  |76  |
 
 
 * * *
@@ -16,24 +16,24 @@
 
 * 博茨瓦纳 Botswana 1
 * 肯尼亚 Kenya 4
-* 坦桑尼亚 Tanzania 2
+* 坦桑尼亚 Tanzania 3
 * 马达加斯加 Madagascar 1
 * 摩洛哥 Morocco 4
-* 南非 South Africa 3
+* 南非 South Africa 4
 * 塞舌尔 Seychelles 2
 * 苏丹 Sultan 1
 * 赞比亚 Zambia 2
 
 ## Americas
 
-* 阿根廷 Argentina 1
+* 阿根廷 Argentina 2
 * 玻利维亚 Bolivia 1
 * 巴西 Brazil 5
 * 厄瓜多尔 Ecuador 1
 * 哥伦比亚 Colombia 2
 * 哥斯达黎加 Costa Rica 1
 * 加拿大 Canada 28
-* 美国 America 89
+* 美国 America 95
 * 秘鲁 Peru 4
 * 墨西哥 Mexico 5
 * 牙买加 Jamaica 1
@@ -54,18 +54,18 @@
 * 日本 Japan 20
 * 沙特 Saudi Arabia 1
 * 泰国 Thailand 1
-* 印度 India 5
-* 印度尼西亚 Indonesia 1
+* 印度 India 6
+* 印度尼西亚 Indonesia 2
 * 越南 Vietnam 1
 * 中国 China 21
 * 斯里兰卡 Sri Lanka 1
 * 土耳其 Turkey 1
-* 澳大利亚 Australia 14
+* 澳大利亚 Australia 15
 * 新西兰 New Zealand 5
 
 ## Europe
 
-* 爱尔兰 Ireland 5
+* 爱尔兰 Ireland 6
 * 爱沙尼亚 Estonia 2
 * 奥地利 Austria 4
 * 保加利亚 Bulgaria 1
@@ -74,9 +74,9 @@
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
 * 丹麦 Denmark 1
-* 德国 Germany 26
+* 德国 Germany 27
 * 俄罗斯 Russia 2
-* 法国 France 21
+* 法国 France 24
 * 芬兰 Finland 8
 * 格陵兰 Greenland 2
 * 荷兰 Netherlands 4
@@ -85,10 +85,10 @@
 * 罗马尼亚 Romania 2
 * 立陶宛 Lithuania 1
 * 马耳他 Malta 1
-* 挪威 Norway 11
+* 挪威 Norway 12
 * 葡萄牙 Portugal 2
 * 瑞典 Sweden 2
-* 瑞士 Switzerland 6
+* 瑞士 Switzerland 7
 * 斯洛文尼亚 Slovenia 2
 * 英国 United Kingdom 40
     - 苏格兰 Scotland 11
