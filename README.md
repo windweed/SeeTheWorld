@@ -2,20 +2,20 @@
 
 |地区 Regions  |图片数目 Amounts  |国家/地区数目 Countries/Areas  |
 |:--|:--:|:--|
-|Africa 非洲  |21  |9|
-|Americas 美洲  |149  |13  |
+|Africa 非洲  |22  |9|
+|Americas 美洲  |150  |13  |
 |Asia & Oceania 亚洲和大洋洲  |87  |20  |
-|Europe 欧洲  |224 |34  |
-|Others 其他  |51  |-  |
+|Europe 欧洲  |231 |34  |
+|Others 其他  |53  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |538  |76  |
+|TOTAL 总计  |549  |76  |
 
 
 * * *
 ## Africa
 
 * 博茨瓦纳 Botswana 1
-* 肯尼亚 Kenya 4
+* 肯尼亚 Kenya 5
 * 坦桑尼亚 Tanzania 3
 * 马达加斯加 Madagascar 1
 * 摩洛哥 Morocco 4
@@ -33,7 +33,7 @@
 * 哥伦比亚 Colombia 2
 * 哥斯达黎加 Costa Rica 1
 * 加拿大 Canada 28
-* 美国 America 95
+* 美国 America 96
 * 秘鲁 Peru 4
 * 墨西哥 Mexico 5
 * 牙买加 Jamaica 1
@@ -69,7 +69,7 @@
 * 爱沙尼亚 Estonia 2
 * 奥地利 Austria 4
 * 保加利亚 Bulgaria 1
-* 比利时 Belgium 2
+* 比利时 Belgium 3
 * 冰岛 Iceland 5
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
@@ -78,7 +78,7 @@
 * 俄罗斯 Russia 2
 * 法国 France 24
 * 芬兰 Finland 8
-* 格陵兰 Greenland 2
+* 格陵兰 Greenland 3
 * 荷兰 Netherlands 4
 * 捷克 Czech 5
 * 拉脱维亚 Latvia 1
@@ -88,29 +88,15 @@
 * 挪威 Norway 12
 * 葡萄牙 Portugal 2
 * 瑞典 Sweden 2
-* 瑞士 Switzerland 7
+* 瑞士 Switzerland 8
 * 斯洛文尼亚 Slovenia 2
-* 英国 United Kingdom 40
+* 英国 United Kingdom 42
     - 苏格兰 Scotland 11
     - 威尔士 Wales 6
-    - 英格兰 England 24
+    - 英格兰 England 25
     - 马恩岛 Isle of Man 1
-    - 北爱尔兰 Northern Ireland 1
-* 西班牙 Spain 30
+    - 北爱尔兰 Northern Ireland 2
+* 西班牙 Spain 31
 * 希腊 Greece 4
 * 匈牙利 Hungary1
-* 意大利 Italy 21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* 意大利 Italy 22
