@@ -2,13 +2,13 @@
 
 |地区 Regions  |图片 Amounts  |国家/地区 Countries/Areas  |
 |:--|:--:|:--:|
-|Africa 非洲  |26  |9|
-|Americas 美洲  |164  |13  |
-|Asia & Oceania 亚洲和大洋洲  |93  |20  |
-|Europe 欧洲  |248 |34  |
+|Africa 非洲  |27  |10|
+|Americas 美洲  |166  |13  |
+|Asia & Oceania 亚洲和大洋洲  |94  |20  |
+|Europe 欧洲  |249 |34  |
 |Others 其他  |54  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |587  |76  |
+|TOTAL 总计  |592  |77  |
 
 
 * * *
@@ -23,6 +23,7 @@
 * 塞舌尔 Seychelles 2
 * 苏丹 Sultan 1
 * 赞比亚 Zambia 2
+* 津巴布韦 Zimbabwe 1
 
 ## Americas
 
@@ -33,9 +34,9 @@
 * 哥伦比亚 Colombia 2
 * 哥斯达黎加 Costa Rica 1
 * 加拿大 Canada 31
-* 美国 America 105
+* 美国 America 106
 * 秘鲁 Peru 4
-* 墨西哥 Mexico 5
+* 墨西哥 Mexico 6
 * 牙买加 Jamaica 1
 * 智利 Chile 2
 * 危地马拉 Guatemala 1
@@ -60,7 +61,7 @@
 * 中国 China 21
 * 斯里兰卡 Sri Lanka 1
 * 土耳其 Turkey 2
-* 澳大利亚 Australia 16
+* 澳大利亚 Australia 17
 * 新西兰 New Zealand 5
 
 ## Europe
@@ -73,7 +74,7 @@
 * 冰岛 Iceland 5
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
-* 丹麦 Denmark 1
+* 丹麦 Denmark 2
 * 德国 Germany 27
 * 俄罗斯 Russia 4
 * 法国 France 27
