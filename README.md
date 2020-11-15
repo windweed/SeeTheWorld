@@ -2,19 +2,19 @@
 
 |地区 Regions  |图片 Amounts  |国家/地区 Countries/Areas  |
 |:--|:--:|:--:|
-|Africa 非洲  |27  |10|
-|Americas 美洲  |166  |13  |
-|Asia & Oceania 亚洲和大洋洲  |94  |20  |
-|Europe 欧洲  |249 |34  |
-|Others 其他  |54  |-  |
+|Africa 非洲  |28  |10|
+|Americas 美洲  |177  |13  |
+|Asia & Oceania 亚洲和大洋洲  |100  |21  |
+|Europe 欧洲  |261 |34  |
+|Others 其他  |55  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |592  |77  |
+|TOTAL 总计  |623  |78  |
 
 
 * * *
 ## Africa
 
-* 博茨瓦纳 Botswana 1
+* 博茨瓦纳 Botswana 2
 * 肯尼亚 Kenya 5
 * 坦桑尼亚 Tanzania 3
 * 马达加斯加 Madagascar 2
@@ -31,10 +31,10 @@
 * 玻利维亚 Bolivia 1
 * 巴西 Brazil 6
 * 厄瓜多尔 Ecuador 2
-* 哥伦比亚 Colombia 2
+* 哥伦比亚 Colombia 3
 * 哥斯达黎加 Costa Rica 1
-* 加拿大 Canada 31
-* 美国 America 106
+* 加拿大 Canada 33
+* 美国 America 114
 * 秘鲁 Peru 4
 * 墨西哥 Mexico 6
 * 牙买加 Jamaica 1
@@ -52,17 +52,18 @@
 * 马来西亚 Malaysia 1
 * 蒙古 Mongolia 1
 * 尼泊尔 Nepal 4
-* 日本 Japan 20
+* 日本 Japan 22
 * 沙特 Saudi Arabia 1
 * 泰国 Thailand 1
-* 印度 India 7
-* 印度尼西亚 Indonesia 3
+* 印度 India 8
+* 印度尼西亚 Indonesia 4
 * 越南 Vietnam 2
-* 中国 China 21
+* 中国 China 22
 * 斯里兰卡 Sri Lanka 1
 * 土耳其 Turkey 2
 * 澳大利亚 Australia 17
 * 新西兰 New Zealand 5
+* 汤加 Tonga 1
 
 ## Europe
 
@@ -71,13 +72,13 @@
 * 奥地利 Austria 4
 * 保加利亚 Bulgaria 1
 * 比利时 Belgium 3
-* 冰岛 Iceland 5
+* 冰岛 Iceland 6
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
-* 丹麦 Denmark 2
-* 德国 Germany 27
+* 丹麦 Denmark 3
+* 德国 Germany 29
 * 俄罗斯 Russia 4
-* 法国 France 27
+* 法国 France 29
 * 芬兰 Finland 8
 * 格陵兰 Greenland 3
 * 荷兰 Netherlands 4
@@ -89,16 +90,16 @@
 * 挪威 Norway 12
 * 葡萄牙 Portugal 2
 * 瑞典 Sweden 3
-* 瑞士 Switzerland 8
+* 瑞士 Switzerland 9
 * 斯洛文尼亚 Slovenia 2
-* 英国 United Kingdom 46
+* 英国 United Kingdom 47
     - 未知地区 unknown 1
-    - 苏格兰 Scotland 11
+    - 苏格兰 Scotland 12
     - 威尔士 Wales 7
     - 英格兰 England 27
     - 马恩岛 Isle of Man 1
     - 北爱尔兰 Northern Ireland 2
-* 西班牙 Spain 33
+* 西班牙 Spain 36
 * 希腊 Greece 5
 * 匈牙利 Hungary1
-* 意大利 Italy 23
+* 意大利 Italy 24
