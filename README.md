@@ -3,12 +3,12 @@
 |地区 Regions  |图片 Amounts  |国家/地区 Countries/Areas  |
 |:--|:--:|:--:|
 |Africa 非洲  |28  |10|
-|Americas 美洲  |177  |13  |
-|Asia & Oceania 亚洲和大洋洲  |100  |21  |
-|Europe 欧洲  |261 |34  |
+|Americas 美洲  |186  |13  |
+|Asia & Oceania 亚洲和大洋洲  |105  |21  |
+|Europe 欧洲  |272 |34  |
 |Others 其他  |55  |-  |
 |non_bing  非bing  |7  |-  |
-|TOTAL 总计  |623  |78  |
+|TOTAL 总计  |648  |78  |
 
 
 * * *
@@ -33,10 +33,10 @@
 * 厄瓜多尔 Ecuador 2
 * 哥伦比亚 Colombia 3
 * 哥斯达黎加 Costa Rica 1
-* 加拿大 Canada 33
-* 美国 America 114
+* 加拿大 Canada 35
+* 美国 America 120
 * 秘鲁 Peru 4
-* 墨西哥 Mexico 6
+* 墨西哥 Mexico 7
 * 牙买加 Jamaica 1
 * 智利 Chile 2
 * 危地马拉 Guatemala 1
@@ -54,15 +54,15 @@
 * 尼泊尔 Nepal 4
 * 日本 Japan 22
 * 沙特 Saudi Arabia 1
-* 泰国 Thailand 1
+* 泰国 Thailand 2
 * 印度 India 8
 * 印度尼西亚 Indonesia 4
 * 越南 Vietnam 2
-* 中国 China 22
+* 中国 China 24
 * 斯里兰卡 Sri Lanka 1
 * 土耳其 Turkey 2
-* 澳大利亚 Australia 17
-* 新西兰 New Zealand 5
+* 澳大利亚 Australia 18
+* 新西兰 New Zealand 6
 * 汤加 Tonga 1
 
 ## Europe
@@ -72,13 +72,13 @@
 * 奥地利 Austria 4
 * 保加利亚 Bulgaria 1
 * 比利时 Belgium 3
-* 冰岛 Iceland 6
+* 冰岛 Iceland 7
 * 波黑 Bosnia and Herzegovina 1
 * 波兰 Poland 1
 * 丹麦 Denmark 3
-* 德国 Germany 29
+* 德国 Germany 31
 * 俄罗斯 Russia 4
-* 法国 France 29
+* 法国 France 31
 * 芬兰 Finland 8
 * 格陵兰 Greenland 3
 * 荷兰 Netherlands 4
@@ -86,20 +86,20 @@
 * 拉脱维亚 Latvia 2
 * 罗马尼亚 Romania 2
 * 立陶宛 Lithuania 1
-* 马耳他 Malta 1
+* 马耳他 Malta 2
 * 挪威 Norway 12
-* 葡萄牙 Portugal 2
+* 葡萄牙 Portugal 3
 * 瑞典 Sweden 3
-* 瑞士 Switzerland 9
+* 瑞士 Switzerland 10
 * 斯洛文尼亚 Slovenia 2
-* 英国 United Kingdom 47
-    - 未知地区 unknown 1
+* 英国 United Kingdom 49
+    - 未知地区 unknown 3
     - 苏格兰 Scotland 12
     - 威尔士 Wales 7
     - 英格兰 England 27
     - 马恩岛 Isle of Man 1
     - 北爱尔兰 Northern Ireland 2
-* 西班牙 Spain 36
+* 西班牙 Spain 37
 * 希腊 Greece 5
 * 匈牙利 Hungary1
 * 意大利 Italy 24
